@@ -1,50 +1,30 @@
-# Welcome to your Expo app 👋
+# 📱 Portfólio Pessoal - Alyson Lima
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Este é o meu aplicativo de **Portfólio**, desenvolvido como atividade prática da disciplina **Programação para Dispositivos Móveis**.  
+O projeto foi criado utilizando **React Native + Expo Router**, diretamente no **GitHub Codespaces**, com foco em design limpo, navegação fluida e código organizado.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Tecnologias Utilizadas
 
-   ```bash
-   npm install
-   ```
+- **React Native** – Framework principal para desenvolvimento mobile  
+- **Expo Router** – Sistema de navegação entre as telas  
+- **Expo Go** – Execução e publicação do app  
+- **Tailwind CSS (NativeWind)** – Estilização moderna e responsiva  
+- **GitHub Codespaces** – Ambiente de desenvolvimento em nuvem  
+- **Funcionalidade Extra:** 🌙 **Modo Escuro/Claro Dinâmico**
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 👨‍💻 Sobre Mim
 
-In the output, you'll find options to open the app in a
+Sou **Alyson Lima Sim**, estudante do **4º período do curso de Sistemas para Internet na UNICAP**.  
+Tenho ótimo desempenho acadêmico, participei de **projetos integradores** em todos os períodos e atuei em **residências tecnológicas** no 2º, 3º e 4º período.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Atualmente, sou **estagiário de suporte de TI na empresa Auto Norte**, onde atuo com manutenção, suporte técnico e infraestrutura de redes.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 🗂️ Estrutura de Pastas
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
